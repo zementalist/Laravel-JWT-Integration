@@ -57,4 +57,3 @@ Modify the data in "return" in "loginAPI" method as you want
 Notes:
 * You may need to handle OPTIONS request, in your request handler, check if type is OPTIONS, return it without middleware
 
-* 
